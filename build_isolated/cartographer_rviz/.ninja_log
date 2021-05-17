@@ -1,0 +1,21 @@
+# ninja log v5
+1	11	0	CMakeFiles/cartographer_rviz_detect_changes	2680477f9cddd5cc
+2	4934	0	CMakeFiles/cartographer_rviz_autogen	a0efe8d6d840013d
+2	4934	0	cartographer_rviz_autogen/mocs_compilation.cpp	a0efe8d6d840013d
+4934	11947	1621028360	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/ogre_slice.cc.o	69e8f53640a5e871
+4934	17677	1621028365	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/drawable_submap.cc.o	f664351683ee37dd
+17679	30477	1621028378	CMakeFiles/cartographer_rviz.dir/cartographer_rviz_autogen/mocs_compilation.cpp.o	7d1703fea374470e
+17679	34653	1621028382	CMakeFiles/cartographer_rviz.dir/cartographer_rviz/submaps_display.cc.o	ce9df9a3d73de01
+34653	39237	1621028387	/home/eldar/Projects/cartographer_ws/devel_isolated/cartographer_rviz/lib/libcartographer_rviz.so	f18eb2f825907481
+7	13	0	CMakeFiles/cartographer_rviz_detect_changes	2680477f9cddd5cc
+7	20	0	CMakeFiles/cartographer_rviz_autogen	a0efe8d6d840013d
+7	20	0	cartographer_rviz_autogen/mocs_compilation.cpp	a0efe8d6d840013d
+21	45	0	CMakeFiles/install.util	fd98965997cef906
+12	21	0	CMakeFiles/cartographer_rviz_detect_changes	2680477f9cddd5cc
+21	40	0	CMakeFiles/cartographer_rviz_autogen	a0efe8d6d840013d
+21	40	0	cartographer_rviz_autogen/mocs_compilation.cpp	a0efe8d6d840013d
+40	4662	1621277977	/home/eldar/Projects/cartographer_ws/devel_isolated/cartographer_rviz/lib/libcartographer_rviz.so	f18eb2f825907481
+6	13	0	CMakeFiles/cartographer_rviz_detect_changes	2680477f9cddd5cc
+7	20	0	CMakeFiles/cartographer_rviz_autogen	a0efe8d6d840013d
+7	20	0	cartographer_rviz_autogen/mocs_compilation.cpp	a0efe8d6d840013d
+20	55	0	CMakeFiles/install.util	fd98965997cef906
